@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/levinwang-shop-api/levinwang-shop-api-member/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/levinwang-shop-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/levinwang-shop-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/levinwang-shop-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/levinwang-shop-eurekaserver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/levinwang-shop-member/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/levinwang-shop-message/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
